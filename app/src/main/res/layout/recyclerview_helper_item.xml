@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:orientation="vertical"
+        android:layout_marginLeft="40dp"
+        android:layout_marginTop="20dp">
+
+        <RelativeLayout
+            android:id="@+id/layout_helper"
+            android:layout_width="match_parent"
+            android:layout_height="150dp"
+            android:clickable="true"
+            android:layout_gravity="center"
+            android:background="#efefefef">
+
+            <ImageView
+                android:id="@+id/imageview_pinkbar"
+                android:layout_width="5dp"
+                android:layout_height="150dp"
+                android:src="@color/colorAccent"/>
+            <LinearLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="25dp"
+                android:layout_marginLeft="20dp"
+                android:layout_toEndOf="@+id/imageview_pinkbar"
+                android:orientation="vertical">
+
+                <TextView
+                    android:id="@+id/textView_helper_Title"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="title"
+                    android:textColor="#000000"
+                    android:textSize="15dp" />
+
+                <TextView
+                    android:id="@+id/textView_helper_addr"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="addr"
+                    android:textSize="13dp"
+                    android:layout_marginTop="10dp"/>
+                <TextView
+                    android:id="@+id/textView_helper_number"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="000-000-000"
+                    android:textSize="13dp"
+                    android:layout_marginTop="10dp"/>
+
+            </LinearLayout>
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignParentRight="true"
+                android:layout_alignParentBottom="true"
+                android:layout_marginRight="30dp"
+                android:layout_marginBottom="20dp"
+                android:text="전화하기"
+                android:textSize="13dp"
+                android:textColor="#000000"/>
+
+        </RelativeLayout>
+
+
+
+    </LinearLayout>
+
+</RelativeLayout>

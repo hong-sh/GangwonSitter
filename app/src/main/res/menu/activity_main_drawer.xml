@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_register"
+            android:icon="@drawable/ic_keyboard_tab_black_24dp"
+            android:title="구인 등록하기" />
+        <item
+            android:id="@+id/nav_current"
+            android:icon="@drawable/ic_folder_black_24dp"
+            android:title="지원 현황" />
+
+        <item
+            android:id="@+id/nav_chat"
+            android:icon="@drawable/ic_chat_black_24dp"
+            android:title="온라인 미팅 현황"/>
+
+        <item
+            android:id="@+id/nav_helper"
+            android:icon="@drawable/ic_content_copy_black_24dp"
+            android:title="산후도우미 제공 기관" />
+        <item
+            android:id="@+id/nav_mypage"
+            android:icon="@drawable/ic_face_black_24dp"
+            android:title="마이 페이지" />
+    </group>
+
+
+</menu>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:id="@+id/layout_title"
+        android:paddingLeft="20dp"
+        android:paddingRight="10dp"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorAccent"
+        >
+        <TextView
+            android:text="후기 작성"
+            android:textColor="#ffffff"
+            android:textSize="13dp"
+            android:textStyle="bold"
+            android:layout_centerHorizontal="true"
+            android:layout_centerVertical="true"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content" />
+
+        <ImageButton
+            android:layout_marginRight="5dp"
+            android:layout_width="20dp"
+            android:layout_height="20dp"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:id="@+id/button_close"
+            android:contentDescription="취소"
+            android:src="@drawable/ic_clear_white_24dp"
+            android:scaleType="fitXY"
+            android:background="@android:color/transparent"/>
+    </RelativeLayout>
+
+    <LinearLayout
+        android:layout_below="@+id/layout_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:paddingTop="15dp"
+        android:paddingBottom="15dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="이 코스에 대한 후기를 남겨주세요 !"
+            android:textSize="13dp"
+            android:layout_marginLeft="30dp"
+            android:id="@+id/textview_sitter_name"/>
+
+        <RatingBar
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:id="@+id/ratingbar_write_review"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="20dp"
+            android:theme="@style/RatingBar"
+            style="@style/Base.Widget.AppCompat.RatingBar.Indicator"
+            android:isIndicator="false"/>
+
+        <EditText
+            android:layout_width="match_parent"
+            android:layout_height="100dp"
+            android:layout_margin="10dp"
+            android:background="@drawable/gray_stroke_edittext"
+            android:id="@+id/edittext_write_review"
+            android:padding="10dp"
+            android:layout_gravity="center_horizontal"/>
+
+        <Button
+            android:id="@+id/button_write_review"
+            android:layout_width="match_parent"
+            android:layout_height="35dp"
+            android:layout_gravity="center_horizontal"
+            android:background="@drawable/pink_stroke_button"
+            android:layout_marginTop="5dp"
+            android:layout_marginLeft="10dp"
+            android:layout_marginRight="10dp"
+            android:text="확인"
+            android:textSize="13dp"
+            style="@style/Widget.AppCompat.Button.Borderless"/>
+    </LinearLayout>
+
+    <ProgressBar
+        android:id="@+id/progressBar"
+        style="?android:attr/progressBarStyle"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_centerHorizontal="true"
+        android:layout_centerVertical="true"
+        android:layout_gravity="center"
+        android:visibility="gone"
+        />
+
+</RelativeLayout>

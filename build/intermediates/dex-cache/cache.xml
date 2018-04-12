@@ -1,0 +1,230 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/5a45be376dbd7950ca3e433678e54a20d2399f3a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d4cf6227dd6a2ceff0f7dcf0c324380b7abf2c28">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_d950bf508a5700c866b858dd0410fc32d3cf7cbb/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/c8ceef5d77286adb60d8b86bb0654518027ae449/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8f128aeeb7e31271b28a7adb9dac1f3a6ed9f5e7">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_83990e9688c0c331e487a47d4a083f6fe735d1aa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/c19e267fdba2faa69a73b90f78332ef9933e3207/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="38789e20ace9ab7dbd00554bd2673ab424478d3b">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_e3e6b13f4b8e7ad06f429e4c82327a23dc0448a9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/efe58bae6de68e15414556961b64e53f4fc1af40/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="8010ae6ed32828a145b25ec97bc07b7a83c6318f">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7f4cbfa9448c7e49d8cd5656c3fc11c2948f12f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/785bf0de6e35deb284ece25aaf9ec78f331aeb24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a77ebf8453efe4ff87e97abd332143b12c7c2ece/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/4ae3d80f202d80afe214c8601c33cd1733d3ecbb/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6116e0e7069de7fc259aac8e08b84f32c2038231">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_8ff733b0fba4aa950d212932600f378a1e774e38/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/532b67b61e66c94281743e458774c0a1e0fa1ebc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_a09877c0e4591b8519dd77fc8c230830e2065516/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/ca19542d17c349f6d056c8bd58a96786f944076c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6addaba208e21c6da776d0ca75b6b23a6ccd5499">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_096131e3f5cdfc9035d62f2b284beddbb0cf34be/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/d64e49b34c07c53e5f3bb396f70c7a6bb011ec24/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="433f4d6aa5f21f19552afe0e6c5eff0fedba73ad">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_ce5398bcbb1e97301fd5ae3e02bcd770f1316434/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/3876c52415c9618c73f4210fdad381915abece6d/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cad3d4473c2e21f6707e404197f6caffb4d8384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/7960ec45f845b437f3a1a79e5b590d7f52840d6a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_c7cdbf2e25a9eaf791d9504d46221e2ac12b320e/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/7027b49e172839f86109e58d18fe83bf988faae5/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_6e89d7f8e3baa8474b5b6bb5fadb3aa4bc65721a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/3876c52415c9618c73f4210fdad381915abece6d/output/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.3"
+        sha1="78ea232052df889856dcb7b7b542707c89bb3bfb">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cad3d4473c2e21f6707e404197f6caffb4d8384/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/94435a739933f74f088b7e61359e6291f9fb069f/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_373a9488220e75a0e6edffe41cb915c263adcd17/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/3accc494f69dbe0fa804339497e175033ee0b326/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="486371f97baad8e607f332f20fee1d3dd00a731a">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_b7dbe4c0b7dadf761bb963fde85c981d011e3599/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/3f1b1383103a70bfdf2f7d149d4dcee294583bf4/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="95519720620b553f63afc789beba9ad582807f7c">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_01d28c027a189ee64a70be2e2f1b6fff1ea18193/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/133822f0180a76b84f9b2666353423a899aa8979/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="756f6297eef79784f5e356dcd4f39865028b2bd0">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3226924a24f4c42f34e5c6c1c24c385c6491d269/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/a2bda744f2549cd9fbe7fbe18c90c9a5a2a4f13c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="eb0d830e3eabb9deb9ec44869cf7ac7ea1ad794c">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0f382027d0e3b2815b8884c14fd48f1cb644b31a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/385f52c0fb58af6a1837877ba07c7d8e97237a74/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_210b0f2d3c7a65b4c45df6174018561925b8b553/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/constraint-layout-solver-1.0.2_266afa181ec5ab7d3f7ca18b5c7ffedcee8f7741/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-25.3.1_41ee71f4a123163f6e093ab260070ffc958d2840/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/2fef04bf807e83964e04f78595596ff1e1405889/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_3179708fc85ab1348855f9a58e10309a78691470/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/7ca0cee68c14956a0ef114c928e94de32b46a98c/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_0392a7de729398fe155e76d1e126808e2eff9426/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/7e65b0e2e7b0064b793a528fb9fd905bf3ec65c2/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_36f925ad55b7b1f45434e16c3bd239eb63adaaa2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/hong/.android/build-cache/948415b921b254623195437072dc7e0a92975cd9/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Volumes/문서/workspace_androidstudio/sitter 1/sitter/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_218366f54b41bc784c8a80736c584d11dad7c822/classes.dex" />
+    </item>
+
+</items>

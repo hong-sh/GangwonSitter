@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/button_online_meeting"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/pink_stroke_button"
+        android:text="온라인 미팅 신청"
+        android:textColor="#000000"
+        android:textSize="13dp" />
+
+    <Button
+        android:id="@+id/button_meeting"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/pink_stroke_button"
+        android:text="오프라인 미팅 신청"
+        android:textColor="#000000"
+        android:textSize="13dp" />
+
+    <Button
+        android:id="@+id/button_choice"
+        style="@style/Widget.AppCompat.Button.Borderless"
+        android:layout_width="match_parent"
+        android:layout_height="35dp"
+        android:layout_marginLeft="15dp"
+        android:layout_marginRight="15dp"
+        android:layout_marginTop="10dp"
+        android:background="@drawable/pink_stroke_button"
+        android:text="채택하기"
+        android:layout_marginBottom="10dp"
+        android:textColor="#000000"
+        android:textSize="13dp" />
+
+</LinearLayout>
